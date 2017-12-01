@@ -1,5 +1,7 @@
 #Formulas For Expected Dollar Return
 
+
+#Use this formula to calculate expected dollar return for place bets
 explace<- function(w, wi, p, pi, c= 1.14){
   q<- wi/w
   P<- pi/p
@@ -9,6 +11,7 @@ explace<- function(w, wi, p, pi, c= 1.14){
     round(a, digits = 2)
 }
 
+#Use this formula to calculate expected dollar return for show bets
 exshow<- function(w, wi, s, si, c= 1.14){
   q<- wi/w
   S<- si/s
