@@ -7,12 +7,13 @@ For major tracks, this number can be reduced to 1.14
 For major events, the number can be reduced to 1.10
 
 Values:
-w: The total amount bet in the win pool
-wi: The amount bet on the specific horse to win
-p: the amount bet in the total place pool
-pi: the amount bet on the horse to place
-s: the amount bet in the show pool
-si: the amount bet on the horse to show
-m: your account balance
-
+<ul>
+<li>w: The total amount bet in the win pool</li>
+<li>wi: The amount bet on the specific horse to win</li>
+<li>p: the amount bet in the total place pool</li>
+<li>pi: the amount bet on the horse to place</li>
+<li>s: the amount bet in the show pool</li>
+<li>si: the amount bet on the horse to show</li>
+<li>m: your account balance</li>
+</ul>
 In order to use the formulas effectively, you must have access to the pool totals.  It is recommended to use twinspires.com
